@@ -1,4 +1,5 @@
 # Airbnb-Data-analysis-EDA-Project
+![Airbnb Image](https://github.com/Febina-s/Airbnb-Data-analysis-python-/blob/main/airbnb-678x381.png)
 
 ## Objective
 The objective of this project is to conduct a comprehensive **Exploratory Data Analysis (EDA)** on the Airbnb dataset to uncover key patterns, pricing behaviors, and listing trends.  
